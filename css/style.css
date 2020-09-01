@@ -1721,7 +1721,7 @@ footer .footer-bottom-right-link:hover {
     color: #c7b299;
 }
 
-@media screen and (max-width: 576px) {
+@media (max-width: 576px) {
 
     body {
         max-width: 576px;
